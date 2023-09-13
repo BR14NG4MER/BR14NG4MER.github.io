@@ -1,7 +1,7 @@
 # BR14NG4MER.github.io
 # EL GIROSCOPIO
 
-<h1> ¿QUE ES?
+<h1> ¿QUE ES?</h1>
 
 El giroscopio o giróscopo es un elemento mecánico que se usa para poder conocer el horizonte, ya que siempre mantendrá una orientación perpendicular al plano o la superficie de la tierra, lo cual permite conocer y medir la orientación de un elemento, dispositivo o vehículo respecto al espacio.d
 
