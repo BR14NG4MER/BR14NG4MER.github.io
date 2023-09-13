@@ -4,8 +4,10 @@
 <h1> ¿QUE ES?
 
 El giroscopio o giróscopo es un elemento mecánico que se usa para poder conocer el horizonte, ya que siempre mantendrá una orientación perpendicular al plano o la superficie de la tierra, lo cual permite conocer y medir la orientación de un elemento, dispositivo o vehículo respecto al espacio.
+
 ![](https://upload.wikimedia.org/wikipedia/commons/c/ca/3D_Gyroscope-es.png)
 Entre los usos más comunes que se les da hoy en día a los giroscopios están el del horizonte artificial de los aviones u barcos, además de estar presentes en dispositivos electrónicos como mandos, wearables, móviles o tabletas de última generación.
+
 ![](https://i.blogs.es/ac1f6e/giros/840_560.jpg)
 
 <h2> ¿PARA QUE SIRVE?
