@@ -3,7 +3,7 @@
 
 <h1> ¿QUE ES?</h1>
 
-El giroscopio o giróscopo es un elemento mecánico que se usa para poder conocer el horizonte, ya que siempre mantendrá una orientación perpendicular al plano o la superficie de la tierra, lo cual permite conocer y medir la orientación de un elemento, dispositivo o vehículo respecto al espacio.d
+El giroscopio o giróscopo es un elemento mecánico que se usa para poder conocer el horizonte, ya que siempre mantendrá una orientación perpendicular al plano o la superficie de la tierra, lo cual permite conocer y medir la orientación de un elemento, dispositivo o vehículo respecto al espacio.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/c/ca/3D_Gyroscope-es.png)
 
@@ -11,14 +11,14 @@ Entre los usos más comunes que se les da hoy en día a los giroscopios están e
 
 ![](https://i.blogs.es/ac1f6e/giros/840_560.jpg)
 
-<h2> ¿PARA QUE SIRVE?
+<h2> ¿PARA QUE SIRVE?</h2>
 
 El giroscopio tiene la tarea de identificar la orientación de un dispositivo en un espacio cualquiera, lo cual es esencial para conocer el estado en el plano del dispositivo y lo cual, si se une a otros datos como los de un acelerómetro o un sensor GPS permiten situar un objeto y conocer todos sus movimientos de forma precisa.
 
 En el caso de los móviles u otros dispositivos electrónicos, en vez de usarse giroscopios tradicionales, se usan giroscopios electrónicos que miden las rotaciones para así saber hacia donde se ha movido el dispositivo en vez de tener un horizonte artificial en su interior, razón por la que a veces es necesario calibrarlos antes de usarlos en aplicaciones que requieren mucha precisión como una brújula. Entre los usos que se le dan están el de rotar la pantalla al girar el móvil, conocer a la hora de hacer fotos panorámicas hacia donde está apuntando el móvil para realizarlas correctamente o usar aplicaciones como la brújula, que entre otras cosas también ofrece en algunas modelos funciones como el horizonte artificial o nivel.
 ![](https://www.5hertz.com/image/catalog/tutoriales/arduino/tutorial2/Giros1.jpg)
 
-<h2> ESPECIFICACIONES
+<h2> ESPECIFICACIONES</h2>
 
 Hay muchas especificaciones a tener en cuenta al seleccionar un giroscopio. Aquí están algunos de los más importantes los:  
 
